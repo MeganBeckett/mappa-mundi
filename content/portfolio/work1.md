@@ -1,9 +1,9 @@
 ---
 date: "2016-11-05T18:25:22+05:30"
 draft: false
-image: img/portfolio/a4-paper.jpg
+image: img/portfolio/Megan_010_blue-cranes.png
 showonlyimage: true
-title: Name of the work 1
+title: Blue cranes
 weight: 0
 ---
 

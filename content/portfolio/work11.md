@@ -1,9 +1,9 @@
 ---
 date: "2016-11-05T20:23:59+05:30"
 draft: false
-image: img/portfolio/paper-presentation.jpg
+image: img/portfolio/Megan_003_african-penguins.png
 showonlyimage: true
-title: Item with image
+title: African penguins
 weight: 11
 ---
 

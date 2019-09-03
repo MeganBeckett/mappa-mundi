@@ -1,9 +1,9 @@
 ---
 date: "2016-11-05T19:44:32+05:30"
 draft: false
-image: img/portfolio/gravity-paper.jpg
+image: img/portfolio/Megan_002_red-disa.png
 showonlyimage: false
-title: Name of the work 3
+title: Red disa
 weight: 2
 ---
 
