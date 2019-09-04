@@ -1,10 +1,10 @@
 ---
-date: "2016-11-05T20:22:08+05:30"
+date: "2016-11-05T19:50:47+05:30"
 draft: false
-image: img/portfolio/Megan_014_strelitzia.png
-showonlyimage: true
-title: Strelitzia
-weight: 10
+image: img/portfolio/Megan_007_stone-plants.png
+showonlyimage: false
+title: Item without image
+weight: 8
 ---
 
 Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.

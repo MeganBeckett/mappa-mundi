@@ -1,7 +1,7 @@
 ---
 date: "2016-11-05T20:23:59+05:30"
 draft: false
-image: img/portfolio/Megan_003_african-penguins.png
+image: img/portfolio/Megan_015_knysna-seahorse.png
 showonlyimage: true
 title: African penguins
 weight: 11

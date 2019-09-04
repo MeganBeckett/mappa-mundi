@@ -1,13 +1,13 @@
 ---
-date: "2016-11-05T19:44:32+05:30"
+date: "2016-11-05T20:23:59+05:30"
 draft: false
-image: img/portfolio/Megan_002_red-disa.png
-showonlyimage: false
-title: Red disa
-weight: 2
+image: img/portfolio/Megan_003_african-penguins.png
+showonlyimage: true
+title: African penguins
+weight: 1
 ---
 
-Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
+Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
 <!--more-->
 
 Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
