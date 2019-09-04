@@ -6,44 +6,53 @@
     <description>Recent content on Mappa mundi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Nov 2016 19:41:01 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 05 Nov 2016 20:23:59 +0530</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>African penguins</title>
+      <link>/portfolio/penguins/</link>
+      <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
+      
+      <guid>/portfolio/penguins/</guid>
+      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Name of the work 2</title>
-      <link>/portfolio/work2/</link>
+      <link>/portfolio/tortoise/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>/portfolio/work2/</guid>
+      <guid>/portfolio/tortoise/</guid>
       <description>&lt;p&gt;When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Red disa</title>
-      <link>/portfolio/work3/</link>
+      <link>/portfolio/disa/</link>
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
       
-      <guid>/portfolio/work3/</guid>
+      <guid>/portfolio/disa/</guid>
+      <description>&lt;p&gt;Celebrating the Pride of Table Mountain, the endemic Red Disa. Relatively rare this bright flower is the floral emblem to the Western Cape and always a pleasure to see.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Name of the work 8</title>
+      <link>/portfolio/meerkats/</link>
+      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
+      
+      <guid>/portfolio/meerkats/</guid>
       <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Item without image</title>
-      <link>/portfolio/work4/</link>
-      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
-      
-      <guid>/portfolio/work4/</guid>
-      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Bontebok</title>
-      <link>/portfolio/work5/</link>
+      <link>/portfolio/bontebok/</link>
       <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
       
-      <guid>/portfolio/work5/</guid>
+      <guid>/portfolio/bontebok/</guid>
       <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
     </item>
     
@@ -58,55 +67,64 @@
     
     <item>
       <title>Cape otter</title>
-      <link>/portfolio/work7/</link>
+      <link>/portfolio/otter/</link>
       <pubDate>Sat, 05 Nov 2016 19:57:40 +0530</pubDate>
       
-      <guid>/portfolio/work7/</guid>
+      <guid>/portfolio/otter/</guid>
       <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Name of the work 8</title>
-      <link>/portfolio/work8/</link>
-      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
+      <title>Item without image</title>
+      <link>/portfolio/stone_plant/</link>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
       
-      <guid>/portfolio/work8/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Item with image</title>
-      <link>/portfolio/work9/</link>
-      <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
-      
-      <guid>/portfolio/work9/</guid>
+      <guid>/portfolio/stone_plant/</guid>
       <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Strelitzia</title>
-      <link>/portfolio/work10/</link>
+      <title>Item with image</title>
+      <link>/portfolio/eland/</link>
+      <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
+      
+      <guid>/portfolio/eland/</guid>
+      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Crane flower</title>
+      <link>/portfolio/strelitzia/</link>
       <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
       
-      <guid>/portfolio/work10/</guid>
+      <guid>/portfolio/strelitzia/</guid>
+      <description>&lt;p&gt;The iconic, vivid crane flower, or bird of paradise, is one of the most popular horticultural perennials around the world, and widely cultivated from Europe to the America&amp;rsquo;s to Australia.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>African penguins</title>
+      <link>/portfolio/mopane/</link>
+      <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
+      
+      <guid>/portfolio/mopane/</guid>
       <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>African penguins</title>
-      <link>/portfolio/work11/</link>
+      <link>/portfolio/seahorse/</link>
       <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
       
-      <guid>/portfolio/work11/</guid>
+      <guid>/portfolio/seahorse/</guid>
       <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Blue cranes</title>
-      <link>/portfolio/work1/</link>
+      <link>/portfolio/cranes/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>/portfolio/work1/</guid>
+      <guid>/portfolio/cranes/</guid>
       <description>&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.&lt;/p&gt;</description>
     </item>
     
