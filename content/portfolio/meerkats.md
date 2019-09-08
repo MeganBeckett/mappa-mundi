@@ -3,29 +3,21 @@ date: "2016-11-05T19:59:22+05:30"
 draft: false
 image: img/portfolio/Megan_006_meerkats.png
 showonlyimage: false
-title: Name of the work 8
-weight: 4
+title: Meerkat
+weight: 2
 ---
 
-Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
+The collective noun for a group of meerkats is a "mob" or a "gang". Very aptly named as there are few animals on Earth who work as well together as meerkats! 
+
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+They are very social creatures and live in colonies together, making large underground networks with multiple entrances - crucial for a quick dash away from predators when the meerkat performing sentry duty gives the shrill warning bark. 
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+Even though it can get incredibly hot in the Kalahari and Karoo, it can still get chilly in winter. To help warm up, meerkats have only a thin layer of fur on their bellies, which they turn towards the sun to absorb the warm rays on a chilly winter’s morning, as this this family group is doing here, surveying their kingdom in the Karoo. 
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+#### *Suricata suricatta*
+Original artwork: *available*
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+![][1]
 
-## Header Level 2
-
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+[1]: /img/portfolio/Megan_006_meerkats.png
