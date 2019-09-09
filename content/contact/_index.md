@@ -1,10 +1,12 @@
 ---
 date: "2016-11-06T13:00:25+05:30"
-title: Get in touch
+title: Artworks
 ---
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
+The original artworks are done with acrylic paints directly on the surface of the map. They are available for purchase, each individually priced (unless specified as *sold*). The sizes vary slightly, depending on the map, but are about A3. 
 
-Effects present letters inquiry no an removed or friends. Desire behind latter me though in. Supposing shameless am he engrossed up additions. My possible peculiar together to. Desire so better am cannot he up before points. Remember mistaken opinions it pleasure of debating. Court front maids forty if aware their at. Chicken use are pressed removed.
+I have limited edition, signed prints of all the pieces available at **R400** each. I can ship around South Africa, for the added price of postal, if you're not based in or near to Cape Town, as I am.
 
-Able an hope of body. Any nay shyness article matters own removal nothing his forming. Gay own additions education satisfied the perpetual. If he cause manor happy. Without farther she exposed saw man led. Along on happy could cease green oh. 
+I also do commissions and find this is a really fun way to bring your experiences of an area to life, whether with a single species or several mapped out over an area, show casing your unique memories of a place, as captured by its local flora and fauna.
+
+Do get in touch with me for any of the above.

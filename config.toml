@@ -16,7 +16,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   description = "Portfolio of artwork"
   copyright = "&copy;2019 Megan Beckett"
   sidebarAbout = [
-    "The word 'map' comes from the medieval Latin *Mappa mundi*, wherein *mappa* meant napkin or cloth and *mundi* the world.",
+    "The word 'map' comes from the medieval Latin <em>Mappa mundi</em>, wherein <em>mappa</em> meant napkin or cloth and <em>mundi</em> the world. </br></br>Here, maps are my canvas as I explore and showcase the biodiversity of our country.",
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -52,7 +52,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   url = "about/"
 
   [[params.navlinks]]
-  name = "Get in touch"
+  name = "Artworks"
   url = "contact/"
 
   [params.social]
