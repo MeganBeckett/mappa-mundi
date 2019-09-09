@@ -1,7 +1,7 @@
 ---
 date: "2016-11-05T20:23:59+05:30"
 draft: false
-image: img/portfolio/Megan_015_knysna-seahorse_small.png
+image: img/portfolio/Megan_015_knysna-seahorse_small.jpg
 showonlyimage: true
 title: Knysna Seahorse
 weight: 12

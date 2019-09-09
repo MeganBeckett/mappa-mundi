@@ -1,7 +1,7 @@
 ---
 date: "2016-11-05T19:53:42+05:30"
 draft: false
-image: img/portfolio/Megan_001_black-rhino_small.png
+image: img/portfolio/Megan_001_black-rhino_small.jpg
 showonlyimage: true
 title: Black Rhinoceros
 weight: 5

@@ -1,7 +1,7 @@
 ---
 date: "2016-11-05T19:57:40+05:30"
 draft: false
-image: img/portfolio/Megan_018_cape-otter_small.png
+image: img/portfolio/Megan_018_cape-otter_small.jpg
 showonlyimage: false
 title: Cape Clawless Otter
 weight: 7

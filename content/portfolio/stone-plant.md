@@ -1,7 +1,7 @@
 ---
 date: "2016-11-05T19:50:47+05:30"
 draft: false
-image: img/portfolio/Megan_007_stone-plants_small.png
+image: img/portfolio/Megan_007_stone-plants_small.jpg
 showonlyimage: false
 title: Stone plants
 weight: 14

@@ -1,7 +1,7 @@
 ---
 date: "2016-11-05T19:41:01+05:30"
 draft: false
-image: img/portfolio/Megan_005_geometric-tortoise_small.png
+image: img/portfolio/Megan_005_geometric-tortoise_small.jpg
 showonlyimage: false
 title: Geometric Tortoise
 weight: 4

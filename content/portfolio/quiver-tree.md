@@ -1,7 +1,7 @@
 ---
 date: "2016-11-05T20:23:59+05:30"
 draft: false
-image: img/portfolio/Megan_016_quiver-tree_small.png
+image: img/portfolio/Megan_016_quiver-tree_small.jpg
 showonlyimage: true
 title: Quiver Tree
 weight: 16

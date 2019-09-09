@@ -1,7 +1,7 @@
 ---
 date: "2016-11-05T20:22:08+05:30"
 draft: false
-image: img/portfolio/Megan_014_strelitzia_small.png
+image: img/portfolio/Megan_014_strelitzia_small.jpg
 showonlyimage: true
 title: Crane flower
 weight: 10
