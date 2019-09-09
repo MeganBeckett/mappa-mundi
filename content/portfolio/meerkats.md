@@ -1,7 +1,7 @@
 ---
 date: "2016-11-05T19:59:22+05:30"
 draft: false
-image: img/portfolio/Megan_006_meerkats.png
+image: img/portfolio/Megan_006_meerkats_small.png
 showonlyimage: false
 title: Meerkat
 weight: 2

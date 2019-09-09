@@ -1,7 +1,7 @@
 ---
 date: "2016-11-05T19:50:47+05:30"
 draft: false
-image: img/portfolio/Megan_008_sugarbird-pincushion.png
+image: img/portfolio/Megan_008_sugarbird-pincushion_small.png
 showonlyimage: false
 title: Sugarbird on pincushion
 weight: 8

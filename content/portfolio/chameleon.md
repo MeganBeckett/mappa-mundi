@@ -1,7 +1,7 @@
 ---
 date: "2016-11-05T20:23:59+05:30"
 draft: false
-image: img/portfolio/Megan_011_dwarf-chameleon.png
+image: img/portfolio/Megan_011_dwarf-chameleon_small.png
 showonlyimage: true
 title: Natal Midlands Dwarf Chameleon
 weight: 15

@@ -1,7 +1,7 @@
 ---
 date: "2016-11-05T20:23:59+05:30"
 draft: false
-image: img/portfolio/Megan_012_mopane-worm.png
+image: img/portfolio/Megan_012_mopane-worm_small.png
 showonlyimage: false
 title: Mopane worm
 weight: 11

@@ -1,31 +1,23 @@
 ---
 date: "2016-11-05T19:57:40+05:30"
 draft: false
-image: img/portfolio/Megan_018_cape-otter.png
+image: img/portfolio/Megan_018_cape-otter_small.png
 showonlyimage: false
-title: Cape otter
+title: Cape Clawless Otter
 weight: 7
 ---
 
-Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
+On the alert, a Cape Clawless Otter checking out its surroundings before it slips back into the water.
+
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+Cape Clawless Otters are one of 4 otter species that inhabit both fresh and marine water ecosystems. Their front feet are adapted for digging and therefore don’t have claws (giving them their name) while their hind feet are partly webbed with 3 claws on each feet.
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+Despite being fairly widely distributed, they particularly elusive, and it is always a treat to spot one and observe their playful nature, whether you're out on a kayak in Table Bay or hiking along the Otter Trail of the Garden Route. 
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+#### *Aonyx capensis*
+Original artwork: *sold*
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+![][1]
 
-## Header Level 2
-
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+[1]: /img/portfolio/Megan_018_cape-otter.png

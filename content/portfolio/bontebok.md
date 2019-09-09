@@ -1,7 +1,7 @@
 ---
 date: "2016-11-05T19:53:42+05:30"
 draft: false
-image: img/portfolio/Megan_009_bontebok.png
+image: img/portfolio/Megan_009_bontebok_small.png
 showonlyimage: true
 title: Bontebok
 weight: 5

@@ -1,7 +1,7 @@
 ---
 date: "2016-11-05T18:25:22+05:30"
 draft: false
-image: img/portfolio/Megan_010_blue-cranes.png
+image: img/portfolio/Megan_010_blue-cranes_small.png
 showonlyimage: true
 title: Blue Crane
 weight: 10

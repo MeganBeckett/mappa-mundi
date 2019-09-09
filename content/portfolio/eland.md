@@ -1,7 +1,7 @@
 ---
 date: "2016-11-05T20:02:19+05:30"
 draft: false
-image: img/portfolio/Megan_013_eland.png
+image: img/portfolio/Megan_013_eland_small.png
 showonlyimage: true
 title: Common eland
 weight: 9
