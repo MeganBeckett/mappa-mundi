@@ -3,29 +3,21 @@ date: "2016-11-05T20:23:59+05:30"
 draft: false
 image: img/portfolio/Megan_015_knysna-seahorse.png
 showonlyimage: true
-title: African penguins
+title: Knysna Seahorse
 weight: 12
 ---
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+Seahorses are bizarre, mythical creatures in their own right, being fish, with a horse-shaped head, monkey-like tail that grips on seaweed, eyes that move independently like a chameleon, and a kangaroo-like pouch, but on the males, in which they incubate the eggs, giving birth to offspring! 
+
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+The Knysna Seahorse is incredibly special, being one of 5 seahorse species found in southern Africa, and the most endangered in the world, primarily due to its exceptionally limited distribution range. They are endemic and only found in a few southern Cape estuaries, namely the Knysna, Keurbooms and Swartvlei estuaries, shown here on the map in the painting.
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+They can be green to brown to dark purple in colour, with the ability to change colour and camouflage themselves, as this one is in the process of doing.
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+#### *Hippocampus capensis*
+Original artwork: *available*
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+![][1]
 
-## Header Level 2
-
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+[1]: /img/portfolio/Megan_015_knysna-seahorse.png

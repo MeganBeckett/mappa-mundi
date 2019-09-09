@@ -9,7 +9,7 @@ weight: 9
 The eland is a sight to behold, and for me, they are particularly associated with the slopes of the Drakensberg Mountains.
 <!--more-->
 
-<img style="float: right;" src="/img/rockpainting.jpeg">
+<img style="float: right; margin-left: 20px" src="/img/rockpainting.jpeg">
 
 Perhaps as they echo the regal, magnificent nature of their surroundings, and their presence is etched in stone with ancient pigment at many sites, telling stories of hunting, fighting, feasting and daily life for the bushmen.
 

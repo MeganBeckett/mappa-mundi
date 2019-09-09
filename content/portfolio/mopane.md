@@ -2,30 +2,26 @@
 date: "2016-11-05T20:23:59+05:30"
 draft: false
 image: img/portfolio/Megan_012_mopane-worm.png
-showonlyimage: true
-title: African penguins
+showonlyimage: false
+title: Mopane worm
 weight: 11
 ---
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+You’ve probably more likely seen a dried Mopane worm, than a living one, especially if you’ve stopped along the side of the roads in Limpopo and Mpumalanga to get some “padkos” from the food stalls.
+
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+Named after the Mopane tree, where they are most commonly found munching away on the leaves, these are the caterpillar species (they are not actually worms) of the Emperor moth.
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+<img style="float: right; width:40%; margin-left: 20px" src="/img/mopane-dried.jpg">
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+For generations, people have collected, dried, and then cooked Mopane worms in a multitude of ways, creating highly nutritious, cheap meals. They’re packed full of goodness, containing 3 times as much protein as beef! 
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+Although traditionally the mopane worms are harvested for personal use only, it has now grown into a thriving, multi-million Rand industry in northern South Africa (as well as Zimbabwe and Botswana), providing an income for many rural communities.
 
-## Header Level 2
+#### *Gonimbrasia belina*
+Original artwork: *available*
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+![][1]
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+[1]: /img/portfolio/Megan_012_mopane-worm.png

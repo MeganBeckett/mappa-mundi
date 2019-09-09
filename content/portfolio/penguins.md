@@ -3,29 +3,24 @@ date: "2016-11-05T20:23:59+05:30"
 draft: false
 image: img/portfolio/Megan_003_african-penguins.png
 showonlyimage: true
-title: African penguins
+title: African Penguin
 weight: 1
 ---
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+Formerly known as ‘Jackass’ Penguins, (if you’ve ever heard their bray you’ll know why!), these little chaps are the only penguin species found on our continent - hence they are now officially known as the African Penguin.
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+<img style="float: right; width: 35%; margin-left:20px" src="/img/sanccob.jpg">
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+Endemic to the coastal waters of southern Africa, they mostly live in colonies on 24 islands between Namibia and Algoa Bay near Port Elizabeth. In South Africa, there are only two land-based colonies: at Boulders Beach in Simon’s Town and Stony Point Penguin Colony in Betty’s Bay, both shown on the map in the painting. The African Penguin is monogamous and pairs, as the two in the painting, return to the same breeding site each year.
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+African Penguins are currently regarded as vulnerable to extinction. But, their populations are starting to grow again thanks to the conservation efforts of our nature reserves, marine protected areas and SANCCOB, the Southern African Foundation for the Conservation of Coastal Birds. 
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+SANCOB is internationally recognised for the role it played during the *MV Treasure* oil spill when more than 20 000 African penguins were oiled when the ship sank between Robben Island and Dassen Island.
 
-## Header Level 2
+#### *Spheniscus demersus*
+Original artwork: *available*
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+![][1]
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+[1]: /img/portfolio/Megan_003_african-penguins.png
