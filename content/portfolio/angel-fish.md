@@ -1,7 +1,7 @@
 ---
 date: "2016-11-05T19:50:47+05:30"
 draft: false
-image: img/portfolio/Megan_017_angel-fish_small.png
+image: img/portfolio/Megan_017_angel-fish_small.jpg
 showonlyimage: false
 title: Regal Angelfish
 weight: 13
